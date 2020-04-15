@@ -1,0 +1,10 @@
+.background{
+
+    background-image: url("grzejnik.jpeg");
+    width: 100vw;
+    height: 600px;
+    background-size: 100vw;
+    object-fit: cover;
+    object-position: center center;
+    /* background-attachment: fixed; */
+}
