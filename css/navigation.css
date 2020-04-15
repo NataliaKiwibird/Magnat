@@ -1,0 +1,32 @@
+.navigation__container {
+    width: 100vw;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+.navigation__list {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin-right: 20px;
+}
+.navigation__item {
+    padding: 10px 20px 10px 20px;
+    font-size: 18px;
+    list-style: none;
+    text-decoration: none;
+}
+.navigation__link {
+    text-decoration: none;
+    color: #bbb;
+    font-family: 'Raleway', sans-serif;
+
+}
+.navigation__link:hover {
+    border-bottom: 1px solid #bbb;
+}
