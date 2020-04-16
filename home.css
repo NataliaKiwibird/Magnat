@@ -10,7 +10,7 @@
     color: #ccc;
     font-family: 'Italianno', cursive;
     font-weight: 100;
-    margin: 85px auto -10px 30px;
+    margin: 150px auto -10px 30px;
 }
 @media (max-width: 1200px) {
     .home__title {
@@ -23,7 +23,7 @@
     .home__title {
         font-size: 50px;
         color: #ccc;
-        margin: 100px auto 10px 20px;
+        margin: 120px auto 10px 20px;
     }
 }
 .background{
@@ -34,6 +34,5 @@
     object-fit: cover;
     object-position: center center;
     background-repeat: no-repeat;
-    margin: auto;
-    /* background-attachment: fixed; */
+    margin: 0 auto 150px auto;
 }
