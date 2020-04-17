@@ -4,19 +4,36 @@
     margin: 0 auto 200px auto;
     box-sizing: border-box;
 }
+@media (max-width: 1025px) {
+    .home__container {
+        margin: 0;
+        height: 90vh;
+    }
+}
+@media (max-width: 769px) {
+    .home__container {
+        margin: 0;
+        height: 72vh;
+    }
+}
 .home__title {
     font-style: italic;
     font-size: 90px;
     color: #ccc;
     font-family: 'Italianno', cursive;
     font-weight: 100;
-    margin: 150px auto -10px 30px;
+    margin: 150px auto -10px 12vw;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1025px) {
     .home__title {
         font-size: 70px;
         color: #ccc;
         margin: 100px auto 10px 60px;
+    }
+}
+@media (max-width: 769px) {
+    .home__title {
+        margin-top: 150px;
     }
 }
 @media (max-width: 420px) {
@@ -27,7 +44,7 @@
     }
 }
 .background{
-    background-image: url("grzejnik.jpeg");
+    background-image: url("images/grzejnik.jpeg");
     width: 100vw;
     height: 600px;
     background-size: 100vw;
@@ -35,4 +52,10 @@
     object-position: center center;
     background-repeat: no-repeat;
     margin: 0 auto 150px auto;
+}
+@media (max-width: 1025px) {
+    .background {
+        margin: 0 auto 50px auto;
+        height: 400px;
+    }
 }
