@@ -13,6 +13,7 @@
     <link href="home.css" rel="stylesheet" type="text/css">
     <link href="css/navigation.css" rel="stylesheet" type="text/css">
     <link href="css/about.css" rel="stylesheet" type="text/css">
+    <link href="css/icons.css" rel="stylesheet" type="text/css">
 
 
 </head>
@@ -21,7 +22,7 @@
 
         <div class="navigation__container">
             <p class="navigation__title">Grzejniki łazienkowe Magnat</p>
-            <ul class="navigation__list">
+            <ul class="navigation__list js-navigation__list">
                 <li class="navigation__item">
                     <a href="#home" class="navigation__link">Główna</a>
                 </li>
@@ -41,6 +42,9 @@
                     <a href="#map" class="navigation__link">Mapa dojazdu</a>
                 </li>
             </ul>
+            <button class="navigation__button js-navigation__button">
+                <img src="images/icons/hamburger.svg" alt="Otwórz/ zamknij nawigację" class="navigation__button-image">
+            </button>
         </div>
 
     <div class="home__container" id="home">
@@ -61,6 +65,25 @@
 
     </div>
 
+    <div class="icons__container">
+        <div class="icons__item">
+            <img src="images/icons/smile.svg" class="icons__icon">
+            <h3 class="icons__number">100%</h3>
+            <p class="icons__text">zadowolonych<br>klientów</h3>
+        </div>
+        <div class="icons__item">
+            <img src="images/icons/parcel.svg" class="icons__icon">
+            <h3 class="icons__number">+1000</h3>
+            <p class="icons__text">sprzedanych<br>produktów</h3>
+        </div>
+        <div class="icons__item">
+            <img src="images/icons/icons8-poland-map-100.png" class="icons__icon">
+            <h3 class="icons__number">100%</h3>
+            <p class="icons__text">produkcja<br>polska</h3>
+        </div>
+    </div>
+
+    <script src="navigation.js"></script>
 
 </body>
 

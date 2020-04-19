@@ -9,8 +9,13 @@
 }
 @media (max-width: 1025px) {
     .about__container {
-        margin: 0 auto;
+        margin: 100px auto;
         height: 100%;
+    }
+}
+@media (max-width: 420px) {
+    .about__container {
+        margin: 50px auto;
     }
 }
 .about__text {
@@ -51,9 +56,14 @@
 @media (max-width: 1025px) {
     .about__description {
         width: 70vw;
-        font-size: 16px;
+        font-size: 20px;
         margin: 0 auto 20px auto;
         padding: 0;
+    }
+}
+@media (max-width: 420px) {
+    .about__description {
+        font-size: 16px;
     }
 }
 .about__image {

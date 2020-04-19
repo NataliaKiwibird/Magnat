@@ -1,0 +1,55 @@
+.icons__container {
+    width: 100vw;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+    padding: 5vw 0 20vw 0;
+}
+.icons__item {
+    margin: 0 8vw;
+    color: #aaa;
+    text-align: center;
+}
+@media (max-width: 1025px) {
+    .icons__item {
+        margin: 0 4vw;
+    }
+}
+.icons__icon {
+    width: 100px;
+}
+.icons__number {
+font-size: 50px;
+color: rgb(114, 114, 114);
+}
+.icons__text {
+font-size: 30px;
+}
+@media (max-width: 769px) {
+    .icons__icon {
+        width: 75px;
+    }
+    .icons__number {
+        font-size: 35px;
+    }
+    .icons__text {
+        font-size: 20px;
+    }
+}
+@media (max-width: 420px) {
+    .icons__container {
+        padding: 0 0 20vw 0;
+    }
+    .icons__icon {
+        width: 60px;
+    }
+    .icons__number {
+        font-size: 25px;
+    }
+    .icons__text {
+        font-size: 15px;
+    }
+}

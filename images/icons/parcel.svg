@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   sodipodi:docname="parcel.svg"
-   version="1.1"
-   data-name="Layer 1"
-   width="512"
-   viewBox="0 0 128 128"
+   id="Layer_1"
    height="512"
-   id="Layer_1">
+   viewBox="0 0 128 128"
+   width="512"
+   data-name="Layer 1"
+   version="1.1"
+   sodipodi:docname="parcel.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)">
   <metadata
      id="metadata842">
     <rdf:RDF>
@@ -29,32 +29,32 @@
   <defs
      id="defs840" />
   <sodipodi:namedview
-     inkscape:current-layer="Layer_1"
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:cy="272"
-     inkscape:cx="233.52381"
-     inkscape:zoom="1.3125"
-     showgrid="false"
-     id="namedview838"
-     inkscape:window-height="840"
-     inkscape:window-width="776"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="776"
+     inkscape:window-height="840"
+     id="namedview838"
+     showgrid="false"
+     inkscape:zoom="1.3125"
+     inkscape:cx="233.52381"
+     inkscape:cy="272"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
   <path
-     style="fill:#999999"
+     d="m115.121 26.546-.008-.014-10.988-11.395a1.751 1.751 0 0 0 -1.26-.535h-77.73a1.751 1.751 0 0 0 -1.26.535l-10.988 11.4-.008.014a1.743 1.743 0 0 0 -.483 1.2v16.681a1.751 1.751 0 0 0 1.75 1.75h2.167v65.466a1.75 1.75 0 0 0 1.75 1.75h91.874a1.75 1.75 0 0 0 1.75-1.75v-65.466h2.167a1.751 1.751 0 0 0 1.75-1.75v-16.685a1.743 1.743 0 0 0 -.483-1.201zm-5.386-.546h-38.688l-2.079-7.9h33.154zm-49.683 20.182h7.9v7.972l-2.627-3.022a1.809 1.809 0 0 0 -2.642 0l-2.627 3.022zm0-3.5v-13.182h7.9v13.182zm5.3-24.58 2.075 7.898h-6.854l2.078-7.9zm-39.471 0h33.151l-2.079 7.898h-38.688zm-9.981 11.398h40.652v13.182h-40.652zm92.291 80.4h-88.378v-63.718h36.739v12.651a1.75 1.75 0 0 0 3.071 1.149l4.377-5.034 4.377 5.034a1.749 1.749 0 0 0 1.321.6 1.747 1.747 0 0 0 1.75-1.75v-12.65h36.739zm3.909-67.218h-40.652v-13.182h40.652z"
      id="path833"
-     d="m115.121 26.546-.008-.014-10.988-11.395a1.751 1.751 0 0 0 -1.26-.535h-77.73a1.751 1.751 0 0 0 -1.26.535l-10.988 11.4-.008.014a1.743 1.743 0 0 0 -.483 1.2v16.681a1.751 1.751 0 0 0 1.75 1.75h2.167v65.466a1.75 1.75 0 0 0 1.75 1.75h91.874a1.75 1.75 0 0 0 1.75-1.75v-65.466h2.167a1.751 1.751 0 0 0 1.75-1.75v-16.685a1.743 1.743 0 0 0 -.483-1.201zm-5.386-.546h-38.688l-2.079-7.9h33.154zm-49.683 20.182h7.9v7.972l-2.627-3.022a1.809 1.809 0 0 0 -2.642 0l-2.627 3.022zm0-3.5v-13.182h7.9v13.182zm5.3-24.58 2.075 7.898h-6.854l2.078-7.9zm-39.471 0h33.151l-2.079 7.898h-38.688zm-9.981 11.398h40.652v13.182h-40.652zm92.291 80.4h-88.378v-63.718h36.739v12.651a1.75 1.75 0 0 0 3.071 1.149l4.377-5.034 4.377 5.034a1.749 1.749 0 0 0 1.321.6 1.747 1.747 0 0 0 1.75-1.75v-12.65h36.739zm3.909-67.218h-40.652v-13.182h40.652z" />
+     style="fill:#1a1a1a" />
   <path
-     style="fill:#999999"
+     d="m47.314 65.709a1.751 1.751 0 0 0 -1.75 1.75v10.582a1.751 1.751 0 0 0 1.75 1.75h33.372a1.751 1.751 0 0 0 1.75-1.75v-10.582a1.751 1.751 0 0 0 -1.75-1.75zm31.622 10.582h-29.872v-7.082h29.872z"
      id="path835"
-     d="m47.314 65.709a1.751 1.751 0 0 0 -1.75 1.75v10.582a1.751 1.751 0 0 0 1.75 1.75h33.372a1.751 1.751 0 0 0 1.75-1.75v-10.582a1.751 1.751 0 0 0 -1.75-1.75zm31.622 10.582h-29.872v-7.082h29.872z" />
+     style="fill:#1a1a1a" />
 </svg>
