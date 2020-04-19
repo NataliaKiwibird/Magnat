@@ -19,15 +19,14 @@
 .home__title {
     font-style: italic;
     font-size: 90px;
-    color: #ccc;
+    color: rgb(160, 158, 158);
     font-family: 'Italianno', cursive;
     font-weight: 100;
-    margin: 150px auto -10px 12vw;
+    margin: 150px auto -10px 2.5vw;
 }
 @media (max-width: 1025px) {
     .home__title {
         font-size: 70px;
-        color: #ccc;
         margin: 100px auto 10px 60px;
     }
 }

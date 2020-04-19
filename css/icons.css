@@ -6,11 +6,11 @@
     align-items: center;
     justify-content: center;
     font-family: 'Raleway', sans-serif;
-    padding: 5vw 0 20vw 0;
+    padding: 14vw 0 10vw 0;
+    color: rgb(114, 114, 114);
 }
 .icons__item {
     margin: 0 8vw;
-    color: #aaa;
     text-align: center;
 }
 @media (max-width: 1025px) {

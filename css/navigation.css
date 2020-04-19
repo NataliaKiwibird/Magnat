@@ -11,7 +11,6 @@
     right: 0;
     left: 0;
     background: white;
-    color: #ccc;
     padding: 20px;
     z-index: 1;
 }
@@ -25,7 +24,7 @@
     width: 25vw;
     font-size: 18px;
     font-weight: 100;
-    color: #ccc;
+    color: rgb(114, 114, 114);
     font-family: 'Raleway', sans-serif;
     margin-left: 20px;
 }
@@ -48,7 +47,7 @@
     align-items: center;
     justify-content: flex-end;
     text-transform: uppercase;
-    margin-right: 20px;
+    margin-right: 65px;
     transition: 0.5s;
     transition-property: opacity, transform;
 }
@@ -79,12 +78,12 @@
 }
 .navigation__link {
     text-decoration: none;
-    color: #bbb;
+    color: rgb(121, 198, 244);
     font-family: 'Raleway', sans-serif;
 
 }
 .navigation__link:hover {
-    border-bottom: 1px solid #bbb;
+    border-bottom: 1px solid rgb(121, 198, 244);
 }
 @media (max-width: 420px) {
     .navigation__list  {
