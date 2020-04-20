@@ -19,7 +19,6 @@
     font-size: 18px;
     line-height: 1.5;
     margin: 10px auto 10px 16vw;
-    /* color: #aaa; */
 }
 .offer__options {
     display: flex;
@@ -36,4 +35,29 @@
     padding: 10px;
     margin: 10px 20px;
     border: 1px solid #ddd;
+}
+@media (max-width: 1025px) {
+    .offer__description {
+        width: 80vw;
+        margin: 10px auto 10px 10vw;
+    }
+    .offer__title {
+        font-size: 70px;
+        margin: 0 auto 30px 10vw;
+    }
+}
+@media (max-width: 769px) {
+    .offer__options-item {
+        width: 25vw;
+        margin: 10px 10px;
+    }
+}
+@media (max-width: 420px) {
+    .offer__options {
+        flex-wrap: wrap;
+    }
+    .offer__options-item {
+        width: 75vw;
+        margin: 10px 10px;
+    }
 }
