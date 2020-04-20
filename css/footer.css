@@ -1,0 +1,23 @@
+.footer {
+    width: 100vw;
+    height: 60px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #bbb;
+}
+.footer__text {
+    margin: 0 10px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 16px;
+}
+@media (max-width: 420px) {
+    .footer {
+        flex-wrap: wrap;
+    }
+    .footer__text {
+        font-size: 14px;
+    }
+}

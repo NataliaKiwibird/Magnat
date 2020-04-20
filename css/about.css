@@ -63,7 +63,7 @@
 @media (max-width: 420px) {
     .about__description {
         font-size: 19px;
-        width: 85vw;
+        width: 80vw;
         margin: 0 auto 0 -5vw;
     }
 }
