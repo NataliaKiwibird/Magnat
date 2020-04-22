@@ -22,7 +22,7 @@
     color: rgb(160, 158, 158);
     font-family: 'Italianno', cursive;
     font-weight: 100;
-    margin: 150px auto -10px 2.5vw;
+    margin: 150px auto -5px 2.5vw;
 }
 @media (max-width: 1025px) {
     .home__title {
@@ -51,7 +51,39 @@
     object-position: center center;
     background-repeat: no-repeat;
     margin: 0 auto 150px auto;
+    position: relative;
 }
+.background__description {
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    color: #aaa;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 58.1vh;
+    opacity: 0;
+    transition-property: opacity translate;
+    transition-duration: 1s;
+}
+@media (min-width: 1700px) {
+    .background__description {
+        padding-top: 56vh;
+    }
+}
+@media (max-width: 1366px) {
+    .background__description {
+        padding-top: 24vh;
+        font-size: 13px;
+    }
+}
+.background__description:hover {
+    opacity: 1;
+    transform: translateX(1%);
+}
+
 @media (max-width: 1025px) {
     .background {
         margin: 0 auto 50px auto;
