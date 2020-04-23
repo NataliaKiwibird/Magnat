@@ -42,6 +42,7 @@
 @media (max-width: 1025px) {
     .about__title {
         font-size: 70px;
+        padding-top: 70px;
     }
 }
 .about__description {

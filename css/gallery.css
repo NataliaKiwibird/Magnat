@@ -12,6 +12,7 @@
     font-family: 'Italianno', cursive;
     font-weight: 100;
     margin: 0 auto 10px 65px;
+    padding-top: 70px;
 }
 .gallery__description {
     font-size: 20px;
@@ -58,6 +59,7 @@ row-gap: 15px;
     }
     .gallery__title {
         font-size: 70px;
+        padding-top: 100px;
     }
     .gallery__container {
         column-gap: 0;
@@ -89,6 +91,7 @@ row-gap: 15px;
 @media (max-width: 420px) {
     .gallery__title {
         margin: 0 auto 10px 20px;
+        padding-top: 70px;
     }
     .gallery__description {
         font-size: 18.5px;
